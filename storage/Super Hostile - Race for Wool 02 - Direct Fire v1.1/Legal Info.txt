@@ -1,0 +1,18 @@
+Users are free (and encouraged) to create videos of the MAPS and share the videos online, using websites such as YouTube.  Users are also free to include advertisements and monetize their videos of my maps.  Watching people play my maps is by far the best way for me to learn how to make better maps.  If you have made video's or LP's (Let's Play series) of my maps, then thank you very much!
+
+TERMS AND CONDITIONS
+
+MAP (MAPS, plural) - Data that interfaces with the Minecraft client to extend, add, change or remove game content.
+MOJANG - Mojang AB
+OWNER - , Original author(s) of the MAP. Under the copyright terms accepted when purchasing Minecraft (http://www.minecraft.net/copyright.jsp) the OWNER has full rights over their MAP despite use of MOJANG code.
+USER - End user of the map, person installing the map.
+
+THESE MAPS ARE PROVIDED 'AS IS' WITH NO WARRANTIES, IMPLIED OR OTHERWISE. THE OWNER OF THESE MAPS TAKES NO RESPONSIBILITY FOR ANY DAMAGES INCURRED FROM THE USE OF THESE MAPS. ALL DAMAGES CAUSED FROM THE USE OR MISUSE OF THESE MAPS FALL ON THE USER.
+
+Use of these MAPS to be installed, manually or automatically, is given to the USER without restriction. 
+
+These MAPS may only be distributed where uploaded, mirrored, or otherwise linked to by the OWNER solely. All mirrors of these MAPS must have advance written permission from the OWNER. ANY attempts to make money off of these MAPS (selling, selling modified versions, adfly, sharecash, etc.) are STRICTLY FORBIDDEN, and the OWNER may claim damages or take other action to rectify the situation.
+
+These MAPS are provided freely and may be decompiled and modified for private use, either with a decompiler or a bytecode editor. Public distribution of modified versions of these MAPS require advance written permission of the OWNER and may be subject to certain terms.
+
+"Super Hostile", "Victory Monument", "Super Docile", "Hostile Trails", the "Vechs'" brand and "Race for Wool" are Trademarked (TM)(2011) by the author.  The MAPS herein and the character "Vechs" are Copyright ?(2011) and are the intellectual property of the author (Vechs).

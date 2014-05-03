@@ -1,0 +1,24 @@
+spawnpoint.x=-2260
+spawnpoint.y=48
+spawnpoint.z=839
+map.name=Quakecraft - Mines
+map.pvp=false
+map.gamemode=2
+map.difficulty=0
+map.spawn-hostile-mobs=false
+map.spawn-friendly-mobs=false
+map.gametype=quakecraft
+map.preventBlockBreak=true
+gamerule.doDaylightCycle=true
+gamerule.doFireTick=false
+gamerule.doMobSpawning=false
+
+randomSpawnpoints
+{
+	spawn1
+	{
+		x=1
+		y=2
+		z=3
+	}
+}

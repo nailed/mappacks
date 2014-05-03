@@ -1,0 +1,31 @@
+local teamred = map.getTeam("teamred")
+local teamblue = map.getTeam("teamblue")
+local kills = scoreboard.getObjective("kills")
+kills.setDisplayName("Player Kills")
+
+map.watchUnready(true)
+map.countdown(10, "The game will start in %s")
+map.watchUnready(false)
+map.winnerInterrupt(true)
+scoreboard.setDisplay(kills, "sidebar")
+
+local function init(p)
+  p.clearInventory()
+  p.setGamemode(gamemodes.survival)
+  p.setHealth(20)
+  p.setFood(20)
+  p.setExperience(0)
+  kills.setScore(p.getUsername(), 0)
+end
+local listener = eventbus.addListener("player_kill_player",function(s,d,dx)
+  kills.addScore(s.getUsername(),1)
+end)
+
+teamred.forEachPlayer(init)
+teamblue.forEachPlayer(init)
+teamred.setSpawn(596,41,-1426)
+teamblue.setSpawn(735,41,-1389)
+
+map.setTime(12500)
+map.setDifficulty(difficulty.peaceful)
+map.countup("%s")

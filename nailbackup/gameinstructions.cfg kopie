@@ -1,0 +1,31 @@
+#Nail game loop
+watchunready
+countdown 10sec The game will start in %s
+unwatchunready
+startwinnerinterrupt
+#Start Blue
+clearinventory teamblue
+setspawn teamblue 903 86 1192
+setgamemode teamblue 0
+sethealth teamblue 20
+setfoodlevel teamblue 20
+clearexperience teamblue
+moveteamspeak teamblue 21
+enable startblue
+#World things
+settime 12500
+setdifficulty 0
+setdifficulty 2
+#Countdown
+countdown 1min %s left until the invaders will be released
+#Startred 
+setspawn teamred 922 84 787
+setgamemode teamred 0
+sethealth teamred 20
+setfoodlevel teamred 20
+clearexperience teamred
+moveteamspeak teamred 20
+enable startred
+#Game End
+countdown 20min %s left 
+setwinner teamblue
